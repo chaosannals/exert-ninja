@@ -1,0 +1,4 @@
+ninja_required_version = 1.10.2
+
+cc = cl
+cflags = 
